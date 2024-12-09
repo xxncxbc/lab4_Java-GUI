@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<parachutes>
+    <parachute>
+        <cost>234</cost>
+        <name>sdfsdf</name>
+        <description>ggg</description>
+    </parachute>
+    <parachute>
+        <cost>32</cost>
+        <name>fdsfds</name>
+        <description>fdsfds</description>
+    </parachute>
+    <parachute>
+        <cost>12</cost>
+        <name>abcd</name>
+        <description>abcde</description>
+    </parachute>
+    <parachute>
+        <cost>1233333333</cost>
+        <name>ssssabcd</name>
+        <description>ssssssssssssssssssssabcde</description>
+    </parachute>
+</parachutes>
